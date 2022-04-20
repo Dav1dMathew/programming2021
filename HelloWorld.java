@@ -12,7 +12,5 @@ public class HelloWorld
 		IBIO.out("Hello Grade 11 2021!!! ");
 		IBIO.output("IS THIS COOL OR WHAT?!");
 		IBIO.output("BYE");
-		
-		System.out.println( Factorial2.factorial(7) );
 	}
 }
